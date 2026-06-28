@@ -220,3 +220,6 @@ The app reads and writes five MongoDB collections (1,000+ seeded records in tota
 | `npm run lint:fix`      | Run ESLint with auto-fix                         |
 | `npm run format`        | Format all files with Prettier                   |
 | `npm run validate`      | Run format check and lint together               |
+
+## Peer Review - Alexander Gutting
+The project seems to include everything necessary for a full-stack website to be developed and deployed (e.g. eslint, node + express). The website is successfully deployed publicly and implements a form (search bar) that lets the user search for a specific recipe. Overall, your project turned out to be phenomenal and I do not have any suggestions to change the project/website.
